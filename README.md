@@ -1,3 +1,10 @@
+This is Code Challenging and for implement this challenge  I used to  NextJs - GraphQl -tailwindcss
+
+
+also there is a live preview [Here-codeChallenge](https://post-challeng.vercel.app/)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
